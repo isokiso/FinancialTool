@@ -22,7 +22,7 @@ def make_fig(df):
     ax.set_ylabel("yen/Month")
     ax.stackplot(x, df[labels[0]], df[labels[1]], df[labels[2]], df[labels[3]],df[labels[4]],df[labels[5]],df[labels[6]], labels=labels)
     ax.legend(loc="upper left")
-    plt.savefig('fig.png')
+    plt.savefig('fig.pdf')
 
 
 
