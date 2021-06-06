@@ -5,3 +5,5 @@
 - cal.py  
 Calクラスを実装  
 Cal(Kihonkyu, Age, Pref, Kotsuhi, Zangyodai, Fuyo)
+
+![Output](tedori/fig.pdf)
